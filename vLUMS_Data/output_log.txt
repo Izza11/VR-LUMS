@@ -1,0 +1,83 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Backup2016\F-drive\LUMS\semester7\HCI\VR-LUMS\executable\Alumni_Proto\vLUMS_Data\Managed\System.dll (this message is harmless)
+Start: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+End: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Option: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.213713 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 0.264510 ms (FindLiveObjects: 0.020234 ms CreateObjectMapping: 0.012316 ms MarkObjects: 0.219056 ms  DeleteObjects: 0.012316 ms)
+
+Start: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+End: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Option: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.648373 ms
+HDR and MultisampleAntiAliasing (in Forward Rendering Path) is not supported. This camera will render without HDR buffers. Disable Antialiasing in the Quality settings if you want to use HDR.
+ 
+(Filename:  Line: 2721)
+
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 7111.
+Total: 1.134286 ms (FindLiveObjects: 0.313482 ms CreateObjectMapping: 0.157767 ms MarkObjects: 0.642214 ms  DeleteObjects: 0.019940 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 43b8 -> priority: 1 
+  Thread -> id: 3684 -> priority: 1 
+ablock
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.711063 ms
+
+Unloading 1266 unused Assets to reduce memory usage. Loaded Objects now: 7485.
+Total: 4.206360 ms (FindLiveObjects: 0.395592 ms CreateObjectMapping: 0.205567 ms MarkObjects: 0.598813 ms  DeleteObjects: 3.006093 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 45ec -> priority: 1 
+  Thread -> id: 2218 -> priority: 1 
